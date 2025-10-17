@@ -11,13 +11,11 @@
             "id": "9cf6fee842bf1799",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Stochastics.md",
-                "mode": "preview",
-                "source": false
+                "file": "Stochastics.pdf"
               },
-              "icon": "lucide-file",
+              "icon": "lucide-file-text",
               "title": "Stochastics"
             }
           }
@@ -142,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastics.md",
+                "file": "Stochastics.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,8 +183,9 @@
   },
   "active": "9cf6fee842bf1799",
   "lastOpenFiles": [
-    "LaTeX grammer.md",
     "Stochastics.md",
+    "Stochastics.pdf",
+    "LaTeX grammer.md",
     "Untitled.base",
     "Welcome.md",
     "Untitled 1.base",
