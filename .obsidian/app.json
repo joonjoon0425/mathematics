@@ -1,0 +1,13 @@
+{
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 70
+  },
+  "showLineNumber": false,
+  "strictLineBreaks": false,
+  "livePreview": true,
+  "readableLineLength": false
+}

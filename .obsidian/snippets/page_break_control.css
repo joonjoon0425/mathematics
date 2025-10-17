@@ -1,0 +1,17 @@
+@media print {
+    h1, h2, h3, h4, h5, h6, p{
+    page-break-after: avoid;
+    }
+    p {
+        page-break-before: avoid;
+    }
+}
+
+.callout,
+table,
+pre,
+blockquote,
+code {
+    page-break-before: avoid;
+    page-break-inside: avoid;
+}

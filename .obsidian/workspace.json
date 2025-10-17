@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "1d8d43d740e0aa73",
+    "type": "split",
+    "children": [
+      {
+        "id": "7536db66124ba7f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cf6fee842bf1799",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stochastics.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stochastics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "06bb7ccdeafb3360",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e111b626f495da6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be52b0d0ccb62777",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "55996a9fa0adbfb2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cc198be8758f36a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8ef33f8b7835f86b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0bbb4184f66f3a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f188e0e6d36d6f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LaTeX grammer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for LaTeX grammer"
+            }
+          },
+          {
+            "id": "680d8a7c7873476f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "New Folder/New Folder's new text.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from New Folder's new text"
+            }
+          },
+          {
+            "id": "fbdb040514f47d80",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "778b2bcba3b66a22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Stochastics.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Stochastics"
+            }
+          },
+          {
+            "id": "4a9b9cc4cb61dc4c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "9cf6fee842bf1799",
+  "lastOpenFiles": [
+    "LaTeX grammer.md",
+    "Stochastics.md",
+    "Untitled.base",
+    "Welcome.md",
+    "Untitled 1.base",
+    "New Folder/Lorem Ipsum.md",
+    "Bold is so strange.md",
+    "Templates/ToC.md",
+    "Templates",
+    "Templates/Table of Contents.md",
+    "Templates",
+    "Mathematics.md",
+    "Untitled 1.md",
+    "New Folder",
+    "create a link.md"
+  ]
+}

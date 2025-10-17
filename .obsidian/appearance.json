@@ -1,0 +1,10 @@
+{
+  "theme": "moonstone",
+  "textFontFamily": "LMRoman9,LMRoman8,LMRoman7",
+  "interfaceFontFamily": "",
+  "baseFontSize": 20,
+  "enabledCssSnippets": [
+    "vertical_center_align",
+    "page_break_control"
+  ]
+}
