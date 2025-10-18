@@ -4,18 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "7536db66124ba7f9",
+        "id": "c63a1a3df8315fde",
         "type": "tabs",
+        "dimension": 32.57756563245823,
         "children": [
           {
-            "id": "9cf6fee842bf1799",
+            "id": "4b45be3f142e3a83",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Stochastics.pdf"
+                "file": "(Springer Undergraduate Mathematics Series) Zdzisław Brzeźniak, Tomasz Zastawniak - Basic Stochastic Processes_ A Course Through Exercises-Springer (1999).pdf"
               },
               "icon": "lucide-file-text",
+              "title": "(Springer Undergraduate Mathematics Series) Zdzisław Brzeźniak, Tomasz Zastawniak - Basic Stochastic Processes_ A Course Through Exercises-Springer (1999)"
+            }
+          }
+        ]
+      },
+      {
+        "id": "874b43c346b930a3",
+        "type": "tabs",
+        "dimension": 67.42243436754177,
+        "children": [
+          {
+            "id": "3a59a81ac07ea3af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stochastics.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
               "title": "Stochastics"
             }
           }
@@ -76,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8ef33f8b7835f86b",
@@ -140,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastics.pdf",
+                "file": "Stochastics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -181,11 +204,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "9cf6fee842bf1799",
+  "active": "3a59a81ac07ea3af",
   "lastOpenFiles": [
+    "(Springer Undergraduate Mathematics Series) Zdzisław Brzeźniak, Tomasz Zastawniak - Basic Stochastic Processes_ A Course Through Exercises-Springer (1999).pdf",
     "Stochastics.md",
-    "Stochastics.pdf",
+    "basic stochastic process.pdf",
     "LaTeX grammer.md",
+    "Stochastics.pdf",
     "Untitled.base",
     "Welcome.md",
     "Untitled 1.base",
